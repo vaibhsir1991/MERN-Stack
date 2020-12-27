@@ -1,6 +1,25 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Teck Stack used : MERN - MongoDB/Express/React/Node
+
+### You will need the below stack installed to run the project :
+- MongoDB
+- NodeJS
+
+### Steps to run the Express server:
+- Open Command Prompt
+- Go to project root folder
+- Run `npm start` OR `yarn start` OR `node server.js`
+- Server will start running on 'http://localhost:8080')
+
+
+### Steps to run the Client:
+- Open Command Prompt
+- Go to project root folder --> `/frontend` folder
+- run `npm start` OR `yarn start` 
+- Client App will start running on 'http://localhost:3000')
+- Login is not implemented. Enter dummy values and hit Login.
+
 
 ## Available Scripts
 
